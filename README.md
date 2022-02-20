@@ -16,5 +16,4 @@
   <a href="https://www.mongodb.com/" target="_blank"><img align="center" alt="Hype-MongoDB" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
   <a href="https://www.mysql.com/" target="_blank"><img align="center" alt="Hype-MySQL" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <a href="https://www.linux.org/" target="_blank"><img align="center" alt="Hype-Linux" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  
 </div>
