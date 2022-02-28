@@ -1,4 +1,4 @@
-## Opa eu sou o Hype , desenvolvedor em Back-end!
+## Opa eu sou o Lucas, desenvolvedor em Back-end!
 
 <div align="center">
   <a href="https://github.com/hype2557">
