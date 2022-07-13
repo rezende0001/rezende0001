@@ -12,8 +12,13 @@
   <a href="https://www.mongodb.com/" target="_blank"><img align="center" alt="Hype-MongoDB" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
   <a href="https://www.mysql.com/" target="_blank"><img align="center" alt="Hype-MySQL" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
     <a href="https://www.lua.org/" target="_blank"><img align="center" alt="Hype-Lua" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg">
-    
-    
-  <a href="https://github.com/hype2557/hype2557/blob/output/github-contribution-grid-snake.svg" target="_blank">![Snake animation](https://github.com/hype2557/hype2557/blob/output/github-contribution-grid-snake.svg)
 </div>
 
+##
+ 
+<div> 
+  <a href="https://www.linkedin.com/in/lucas-rezende-573353214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/hype2557/hype2557/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
