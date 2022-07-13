@@ -14,6 +14,6 @@
     <a href="https://www.lua.org/" target="_blank"><img align="center" alt="Hype-Lua" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg">
     
     
-  ![Snake animation](https://github.com/hype2557/hype2557/blob/output/github-contribution-grid-snake.svg)
+  <a href="https://github.com/hype2557/hype2557/blob/output/github-contribution-grid-snake.svg" target="_blank">![Snake animation](https://github.com/hype2557/hype2557/blob/output/github-contribution-grid-snake.svg)
 </div>
 
