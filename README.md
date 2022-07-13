@@ -12,8 +12,8 @@
   <a href="https://www.mongodb.com/" target="_blank"><img align="center" alt="Hype-MongoDB" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
   <a href="https://www.mysql.com/" target="_blank"><img align="center" alt="Hype-MySQL" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
     <a href="https://www.lua.org/" target="_blank"><img align="center" alt="Hype-Lua" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg">
-</div>
-
-<div>
+    
+    
   ![Snake animation](https://github.com/hype2557/hype2557/blob/output/github-contribution-grid-snake.svg)
 </div>
+
