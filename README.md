@@ -8,7 +8,7 @@
   
 <div style="display: inline_block"><br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="center" alt="Hype-Js" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <a href="https://nodejs.org" target="_blank"><img align="center" alt="Hype-NodeJS" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
+  <a href="https://nodejs.org" target="_blank"><img align="center" alt="Hype-NodeJS" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <a href="https://www.mongodb.com/" target="_blank"><img align="center" alt="Hype-MongoDB" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
   <a href="https://www.mysql.com/" target="_blank"><img align="center" alt="Hype-MySQL" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
     <a href="https://www.lua.org/" target="_blank"><img align="center" alt="Hype-Lua" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg">
